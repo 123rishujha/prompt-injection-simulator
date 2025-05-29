@@ -57,3 +57,5 @@ Below are at least 5 example attack prompts included in the simulator, with note
    - Educate users and developers about prompt injection risks and safe prompt engineering practices.
 
 ---
+
+![image](https://github.com/user-attachments/assets/73c5763e-8b76-4962-9dd1-48fabd70df76)
